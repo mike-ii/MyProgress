@@ -8,7 +8,7 @@ Topic termonology might be wrong, but I'll fix the terminology when I learn abou
 
 I will also create a `.md` file for each topic covering my understanding of it.
 
-# Categories
+# Category Links
 
 * [Misc Technology Concepts](#misc-technology-concepts)
 * [Hardware](#hardware)
@@ -16,6 +16,9 @@ I will also create a `.md` file for each topic covering my understanding of it.
 * [Programming Concepts](#programming-concepts)
 * [Low Level Programming Concepts](#low-level-programming-concepts)
 * [Operating System Concepts](#operating-system-concepts)
+
+
+# Categories 
 
 ### Misc Technology Concepts
 

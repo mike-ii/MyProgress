@@ -1,0 +1,1 @@
+# Interpreted Scripts vs Compiled Programs

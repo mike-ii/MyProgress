@@ -19,52 +19,50 @@ I will also create a `.md` file for each topic covering my understanding of it.
 
 ### Misc Technology Concepts
 
-- [ ] Open source
-- [ ] Git & version control
-- [ ] Security
-- [ ] Embedded systems
+- [ ] [Embedded systems](papers/misc-technology-concepts/Embedded-Systems.md)
+- [ ] [Git & version control](papers/misc-technology-concepts/Git-And-Version-Control.md)
+- [ ] [Open source](papers/misc-technology-concepts/Open-Source.md)
+- [ ] [Security](papers/misc-technology-concepts/Security.md)
 
 ### Hardware
 
-- [ ] RAM, CPU, HDD/SSD and other types of hardware
-- [ ] RAM advanced
-- [ ] CPU advanced
-- [ ] Hard drives advanced
-- [ ] Solid state drives advanced
-- [ ] Buses
-- [ ] Buffers
-- [ ] How hardware pieces interact with each other
-- [ ] Cords, wires and cables
+- [ ] [Buffers](papers/hardware/Buffers.md)
+- [ ] [Buses](papers/hardware/Buses.md)
+- [ ] [CPU advanced](papers/hardware/CPU.md)
+- [ ] [Cords, wires and cables](papers/hardware/Cords-Wires-Cables.md)
+- [ ] [Hard drives advanced](papers/hardware/Hard-Drives.md)
+- [ ] [How hardware pieces interact with each other](papers/hardware/Hardware-Interaction.md)
+- [ ] [RAM advanced](papers/hardware/RAM.md)
+- [ ] [RAM, CPU, HDD/SSD and other types of hardware](papers/hardware/Types-Of-Hardware.md)
+- [ ] [Solid state drives advanced](papers/hardware/Solid-State-Drives.md)
 
 ### Networking
 
-- [ ] IP addresses & subnetting
-- [ ] Packets
-- [ ] DNS
-- [ ] Domains
-- [ ] Off site servers (VPS, Dedicated, etc)
-- [ ] Routers, switches, modems
+- [ ] [DNS](papers/networking/DNS.md)
+- [ ] [Domains](papers/networking/Domains.md)
+- [ ] [IP addresses & subnetting](papers/networking/IP-Addresses-Subnetting.md)
+- [ ] [Off site servers (VPS, Dedicated, etc)](papers/networking/Off-Site-Servers.md)
+- [ ] [Packets](papers/networking/Packets.md)
+- [ ] [Routers, switches, modems](papers/networking/Routers-Switches-Modems.md)
 
 ### Programming Concepts
 
-- [ ] Types
-- [ ] Classes & Objects
-- [ ] Functions, return data, pass data
-- [ ] Programming conventions
-- [ ] Interpreted scripts vs compiled programs
+- [ ] [Classes & Objects](papers/programming-concepts/Classes-Objects.md)
+- [ ] [Programming conventions](papers/programming-concepts/Conventions.md)
+- [ ] [Types](papers/programming-concepts/Types.md)
+- [ ] [Functions, return data, pass data](papers/programming-concepts/Functions.md)
+- [ ] [Interpreted scripts vs compiled programs](papers/programming-concepts/Interpreted-Compiled.md)
 
 ### Low Level Programming Concepts
 
-- [ ] Pointers
-- [ ] Pointers advanced
-- [ ] Macros
-- [ ] Portability and
-- [ ] Compilers & machine code
+- [ ] [Pointers](papers/low-level-programming-concepts/Pointers.md)
+- [ ] [Macros](papers/low-level-programming-concepts/Macros.md)
+- [ ] [Portability and Architectures](papers/low-level-programming-concepts/Portability-Architectures.md)
+- [ ] [Compilers & machine code](papers/low-level-programming-concepts/Compilers-Machine-Code.md)
 
 ### Operating System Concepts
 
-- [ ] What happens during bootup?
-- [ ] File systems
-- [ ] Partitions, tables and formats/formatting
-- [ ] Kernels & Drivers
-- [ ] 
+- [ ] [What happens during bootup?](papers/os-concepts/Boot.md)
+- [ ] [File systems](papers/os-concepts/File-Systems.md)
+- [ ] [Partitions, tables and formats/formatting](papers/os-concepts/Partitions.md)
+- [ ] [Kernels & Drivers](papers/os-concepts/Kernels-Drivers.md)

@@ -24,7 +24,7 @@ I will also create a `.md` file for each topic covering my understanding of it.
 
 - [ ] [Embedded systems](papers/misc-technology-concepts/Embedded-Systems.md)
 - [ ] [Git & version control](papers/misc-technology-concepts/Git-And-Version-Control.md)
-- [ ] [Open source](papers/misc-technology-concepts/Open-Source.md)
+- [x] [Open source](papers/misc-technology-concepts/Open-Source.md)
 - [ ] [Security](papers/misc-technology-concepts/Security.md)
 
 ### Hardware

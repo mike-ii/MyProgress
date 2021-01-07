@@ -12,5 +12,5 @@ a topic or concept I will check it's box.
 
 # Hardware
 
-- [] Buses
-- [] Buses Advances
+-[] Buses
+-[] Buses Advances

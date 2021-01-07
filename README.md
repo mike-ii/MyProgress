@@ -4,7 +4,10 @@ pseudocode and other miscellaneous things
 related to my own progress in learning computer things.
 
 [Learning & Papers](TOLEARN.md)
+
 [Pseudocode](#) (empty link)
+
 [Programming Languages](#) (empty link)
+
 [Notes](#) (empty link)
 

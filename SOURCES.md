@@ -12,4 +12,8 @@ If I have content that is not sourced here, it's because I wrote it based of kno
 
 [SoloLearn](https://www.sololearn.com/)
 
+### Documentation
+
+[Discord.js](https://discord.js.org)
+
 ### Documents, Files, Books, Articles, etc.

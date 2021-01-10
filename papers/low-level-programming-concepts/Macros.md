@@ -30,7 +30,7 @@ In the function example above, the function is stored in memory and a variable i
 
 ### Magic Numbers
 
-Macros can also be used to prevent the occurrence of [Magic Numbers](https://en.m.wikipedia.org/wiki/Magic_number_\(programming) and make code more maintainable. For example, if you have say a number you'd always like to use to declare the size of an array, you can do..
+Macros can also be used to prevent the occurrence of [Magic Numbers](https://en.m.wikipedia.org/wiki/Magic_number_\(programming\)) and make code more maintainable. For example, if you have say a number you'd always like to use to declare the size of an array, you can do..
 ```c
   #define ARRAY_SIZE 128
 ```

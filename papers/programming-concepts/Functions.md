@@ -52,7 +52,7 @@ Note: the `return` method is how we access the result of a function from outside
     let instructions = changeOil("def");
 ```
 
-... `instructions` would be equal to the data that the `changeOil` instructions that were returned via the `return` method.
+`instructions` would be equal to the data that the `changeOil` function returned via the `return` method.
 
 Many languages require functions to be defined by their return type.
 

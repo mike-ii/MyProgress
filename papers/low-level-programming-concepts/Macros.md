@@ -5,7 +5,8 @@ As far as C programming goes, macros can be best described as a method to define
 Macros are not to be confused with functions, as functions are a sequence of code that is stored in one location and returns data based on the input data. Functions may require a lot of overhead to define the function itself, regardless of the content.
 
 What a macro is, is simply a sequence of code that is more or less copy pasted at every location it's used in the code, based on the rules it was defined with and the values passed to the macro. If I were to write a macro that doubles a number, I could use a macro instead of a function to save resource usage.
-```  // Function 
+```c  
+  // Function 
   int double_num(int n) {
     return n * 2;
   }
@@ -30,7 +31,7 @@ In the function example above, the function is stored in memory and a variable i
 ### Magic Numbers
 
 Macros can also be used to prevent the occurrence of [magic numbers](https://en.m.wikipedia.org/wiki/Magic_number_(programming) and make code more maintainable. For example, if you have say a number you'd always like to use to declare the size of an array, you can do..
-```  
+```c
   #define ARRAY_SIZE 128
 ```
 Then whenever you create an array, you can do `arr[ARRAY_SIZE]` instead of `arr[128]` in a hundred different locations. By using a macro to reduce magic numbers, you make the code more maintainable while also making it less confusing.

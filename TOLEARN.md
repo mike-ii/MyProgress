@@ -62,6 +62,14 @@ I will also create a `.md` file for each topic covering my understanding of it.
 - [ ] [Macros](papers/low-level-programming-concepts/Macros.md)
 - [ ] [Portability and Architectures](papers/low-level-programming-concepts/Portability-Architectures.md)
 - [ ] [Compilers & machine code](papers/low-level-programming-concepts/Compilers-Machine-Code.md)
+- [ ] [Interrupt Vector Table](papers/low-level-programming-concepts/Interrupt-Vector-Table.md)
+- [ ] [Polling](papers/low-level-programming-concepts/Polling.md)
+- [ ] [Scheduling](papers/low-level-programming-concepts/Scheduling.md)
+- [ ] [Threading](papers/low-level-programming-concepts/Threading.md)
+- [ ] [Exceptions](papers/low-level-programming-concepts/Exceptions.md)
+- [ ] [Memory Management](papers/low-level-programming-concepts/Memory-Management.md)
+- [ ] [Garabage Collection](papers/low-level-programming-concepts/Garabage-Collection.md)
+- [ ] [Swap](papers/low-level-programming-concepts/Swap.md)
 
 ### Operating System Concepts
 

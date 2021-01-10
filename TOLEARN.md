@@ -53,7 +53,7 @@ I will also create a `.md` file for each topic covering my understanding of it.
 - [ ] [Classes & Objects](papers/programming-concepts/Classes-Objects.md)
 - [ ] [Programming conventions](papers/programming-concepts/Conventions.md)
 - [ ] [Types](papers/programming-concepts/Types.md)
-- [ ] [Functions, return data, pass data](papers/programming-concepts/Functions.md)
+- [x] [Functions, return data, pass data](papers/programming-concepts/Functions.md)
 - [ ] [Interpreted scripts vs compiled programs](papers/programming-concepts/Interpreted-Compiled.md)
 - [ ] [Serialization](papers/programming-concepts/Serialization.md)
 

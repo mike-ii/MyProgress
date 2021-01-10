@@ -15,14 +15,14 @@ What a macro is, is simply a sequence of code that is more or less copy pasted a
   
   // Macro
   
-  #define double_num(n) ((n) * (2)
+  #define double_num(n) ((n) * (2))
   
   int num = double_num(2); // 4
   
   // The preprossessor simply expands the previous line based on the macros rules, rather than use a whole function 
   // for instance, the above line of code would be:
   
-  int num = ((2) * 2); // 4
+  int num = ((2) * (2)); // 4
 ```
   
   

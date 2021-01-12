@@ -8,8 +8,13 @@ Topic termonology might be wrong, but I'll fix the terminology when I learn abou
 
 I will also create a `.md` file for each topic covering my understanding of it.
 
+If I am wrong anywhere, feel free to make a pull request or issue addressing it.
+
+If you're here to learn, I recommend starting with the components and circuits section.
+
 # Category Links
 
+* [Components and Circuits](#components-and-circuits)
 * [Misc Technology Concepts](#misc-technology-concepts)
 * [Hardware](#hardware)
 * [Networking](#networking)
@@ -19,6 +24,20 @@ I will also create a `.md` file for each topic covering my understanding of it.
 
 
 # Categories 
+
+### Components and Circuits
+
+(Read in the order they're listed for best understanding)
+
+- [ ] [Electricity Basics](papers/electrical/Basics.md)
+- [ ] [Electrical Components](papers/electrical/Components.md)
+- [ ] [Circuits](papers/electrical/Circuits.md)
+- [ ] [Measurements and Calculation](papers/electrical/Measurements-Calculation.md)
+- [ ] [Circuits Advanced](papers/electrical/Circuits-Advanced.md)
+- [ ] [Logic Gates](papers/electrical/Logic-Gates.md)
+- [ ] [Applied Circuit Concepts](papers/electrical/Applied-Concepts.md)
+- [ ] [Circuits In Computers](papers/electrical/Computer-Circuits.md)
+
 
 ### Misc Technology Concepts
 

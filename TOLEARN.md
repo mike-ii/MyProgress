@@ -29,7 +29,7 @@ If you're here to learn, I recommend starting with the components and circuits s
 
 (Read in the order they're listed for best understanding)
 
-- [ ] [Electricity Basics](papers/electrical/Basics.md)
+- [x] [Electricity Basics](papers/electrical/Basics.md)
 - [ ] [Electrical Components](papers/electrical/Components.md)
 - [ ] [Circuits](papers/electrical/Circuits.md)
 - [ ] [Measurements and Calculation](papers/electrical/Measurements-Calculation.md)
